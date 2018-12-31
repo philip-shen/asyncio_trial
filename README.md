@@ -1,7 +1,7 @@
 # asyncio_trial
 Asyncoio trial purpose
 
-## Git from a foloder of repoA to repoB
+## Decorators
 ``` 
 Decorators are “wrappers”, which means that they let you execute code before and after the function they decorate without modifying the function itself.
 ``` 
