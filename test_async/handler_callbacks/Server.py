@@ -1,7 +1,7 @@
 import sys
 
 # add uplink directory to path
-sys.path.insert(0, "../../")
+#sys.path.insert(0, "../../")
 import uplink
 from uplink import *
 
