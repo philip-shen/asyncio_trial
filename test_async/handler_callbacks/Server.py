@@ -6,6 +6,7 @@ import uplink
 from uplink import *
 
 BASE_URL="https://www.google.com"
+BASE_URL_AU="http://google.com.au"
 
 def print_status(response):
     print('Google response status:{}'.format(response.status_code))
