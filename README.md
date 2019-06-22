@@ -1,17 +1,34 @@
 # asyncio_trial
-Asyncoio trial purpose
+Asyncoio trial purpose  
 
-## Concurrency Test
+# Table of Contents  
+[Concurrency Test]()  
+[Results:]()  
+[Step 1.]()  
+[Step 2.]()  
+[Step 3.]()  
+[Asynchronous：]()  
+[ThreadPool:]()  
+[ProcessPool:]()  
+[Sequence：]()  
 
-Results:
-asynchronous vs processpool vs threadpool vs sequential
-![alt tag](https://i.imgur.com/WEPlrM6.jpg)
+[Decorators]()  
+[Git from a foloder of repoA to repoB]()  
 
-Step 1. 
+[Reference]()  
+
+
+# Concurrency Test  
+
+## Results:  
+asynchronous vs processpool vs threadpool vs sequential  
+![alt tag](https://i.imgur.com/WEPlrM6.jpg)  
+
+## Step 1.   
 Serve Side: Setup Web Server on Google Colud Platform (GCP) for testing purpose
 ![alt tag](https://i.imgur.com/R92L5hY.jpg)
 
-Step 2.
+## Step 2.  
 Modules Installation:
 
 On `Linux`:
@@ -26,9 +43,9 @@ On `Windows`（Without `uvloop`）:
 (Flask_trial) d:\project\Python\asyncio_trial\concurrency> pip install -r requirements-win32.txt
 ```
 
-Step 3.
+## Step 3.  
 
-Asynchronous：
+### Asynchronous：  
 
 Round 1:
 ![alt tag](https://i.imgur.com/kE6QwCF.jpg)
@@ -39,7 +56,7 @@ Round 2:
 Round 3:
 ![alt tag](https://i.imgur.com/XqBEggO.jpg)
 
-ThreadPool:
+### ThreadPool:  
 
 Round 1:
 ![alt tag](https://i.imgur.com/qG8akLQ.jpg)
@@ -50,7 +67,7 @@ Round 2:
 Round 3:
 ![alt tag](https://i.imgur.com/qkgRBvg.jpg)
 
-ProcessPool:
+### ProcessPool:  
 
 Round 1:
 ![alt tag](https://i.imgur.com/dzHo7vc.jpg)
@@ -61,17 +78,17 @@ Round 2:
 Round 3:
 ![alt tag](https://i.imgur.com/7cLp6wu.jpg)
 
-Sequence：
+### Sequence：  
 
 Round 1:
 ![alt tag](https://i.imgur.com/ZJOBGdm.jpg)
 
-## Decorators
+# Decorators  
 ``` 
 Decorators are “wrappers”, which means that they let you execute code before and after the function they decorate without modifying the function itself.
 ``` 
 
-## Git from a foloder of repoA to repoB 
+# Git from a foloder of repoA to repoB   
 Step 1. 
 
 ![alt tag](https://i.imgur.com/ERx0VpM.jpg)
@@ -120,7 +137,7 @@ Step 12. Done!
 
 ![alt tag](https://i.imgur.com/manguxu.jpg)
 
-## Reference 
+# Reference   
 * [A Declarative HTTP Client for Python](https://github.com/prkumar/uplink)
 * [Q: How can I make a chain of function decorators in Python?](https://gist.github.com/Zearin/2f40b7b9cfc51132851a)
 * [How to use *args and **kwargs in Python](http://www.saltycrane.com/blog/2008/01/how-to-use-args-and-kwargs-in-python/)
