@@ -14,6 +14,18 @@ Asyncoio trial purpose
 
 [Decorators](#decorators)  
 [Git from a folder of repoA to repoB](#git-from-a-folder-of-repoa-to-repob)  
+[Step 1.](#step-1-1)  
+[Step 2.](#step-2-1)  
+[Step 3.](#step-3-1)  
+[Step 4.](#step-4)  
+[Step 5.](#step-5)  
+[Step 6.](#step-6)    
+[Step 7.](#step-7)    
+[Step 8.](#step-8)  
+[Step 9. Previous log to add new Repo.](#step-9-previous-log-to-add-new-repo)  
+[Step 10. Error Msg](#step-10-error-msg)  
+[Step 11.](#step-11)  
+[Step 12. Done!](#step-12-done)  
 
 [Reference](#reference)  
 
@@ -116,7 +128,7 @@ Decorators are “wrappers”, which means that they let you execute code before
 ## Step 9. Previous log to add new Repo.  
 ![alt tag](https://i.imgur.com/21of7W5.jpg)
 
-# Step 10. Error Msg  
+## Step 10. Error Msg  
 ![alt tag](https://i.imgur.com/rCbMWOd.jpg)
 
 ## Step 11.   
